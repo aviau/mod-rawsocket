@@ -1,4 +1,4 @@
-mod-rawsocket
+mod-rawsocket [![Build Status](https://travis-ci.org/savoirfairelinux/mod-rawsocket.svg?branch=master)](https://travis-ci.org/savoirfairelinux/mod-rawsocket) [![Coverage Status](https://img.shields.io/coveralls/savoirfairelinux/mod-rawsocket.svg)](https://coveralls.io/r/savoirfairelinux/mod-rawsocket)
 =============
 What is it?
 -----------
