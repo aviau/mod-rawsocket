@@ -2,7 +2,7 @@
 
 
 #
-from  shinken_test import *
+from  shinken.test.shinken_test import *
 import socket
 
 define_modules_dir("../modules")
